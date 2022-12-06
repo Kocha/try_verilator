@@ -1,11 +1,12 @@
 # Trial at Verilator
 
+- 01_apb : Only SystemVerilog
 - sysc/ : SystemC
 
 ## Enviroment
 
 - macOS Monterey 12.5
-- Verilator 4.224
+- Verilator 5.002
 - SystemC 2.3.3
 
 See here for setting details.
